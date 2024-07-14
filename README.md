@@ -4,7 +4,9 @@ Seaborn tutorial 1 Colab
 https://github.com/anumit-web/Seaborn-tutorial-1-Colab
 
 Editors 
-cColab (Google)
+
+Colab (Google)
+
 https://colab.research.google.com/
 
 
