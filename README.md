@@ -9,6 +9,7 @@ Colab (Google)
 
 https://colab.research.google.com/
 
+Open code files hosted on github using Colab code editor. 
 
 Seaborn tutorial
 
